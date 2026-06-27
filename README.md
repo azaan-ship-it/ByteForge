@@ -1,7 +1,5 @@
 # ByteForge
 
-![ByteForge Banner](https://via.placeholder.com/800x200/0a0a0a/00FFB2?text=BYTEFORGE+-+MACRO+ENGINE)
-
 **Advanced Macro tool with voice control & intelligence.**
 
 Record macros, spam keys, auto-click, run voice commands, schedule tasks, and automate anything on Windows.
