@@ -34,9 +34,6 @@ Record macros, spam keys, auto-click, run voice commands, schedule tasks, and au
 <img width="460" height="743" alt="screenshot2" src="https://github.com/user-attachments/assets/c991f4f3-2593-4ca3-bbfe-b4c552125d02" />
 <img width="398" height="730" alt="screenshot1" src="https://github.com/user-attachments/assets/fc3ae0e4-913d-4e0a-885f-b62bff6192db" />
 
-## Demo
-*(Add video link here later)*
-
 ## Feedback & Support
 Found a bug? Have an idea? Open an [Issue](https://github.com/azaan-ship-it/ByteForge/issues)
 
